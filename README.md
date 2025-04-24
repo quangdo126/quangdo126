@@ -1,4 +1,4 @@
-# Hello World! My name is Quang 👋:
+# Hello World! My name is Quang 👋
 🌱 Currently improving my skills in **Cloud Native Architectures** & **CI/CD automation**  <br>👯 Looking to collaborate on open-source full-stack and infrastructure automation projects  <br>💬 Ask me about **React**, **Next.js**, **Docker**, **Kubernetes**, or **CI/CD pipelines**  <br>📫 Reach me at: quangdo1206@gmail.com  <br>🧠 Fun fact: I automate everything I can 😄
 
 # 📫 Let's Connect:
