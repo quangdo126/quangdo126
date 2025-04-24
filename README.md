@@ -1,7 +1,7 @@
 # Hello World 👋! My name is Quang and I'm a Full Stack Developer & DevOps Engineer:
 🌱 Currently improving my skills in **Cloud Native Architectures** & **CI/CD automation**  <br>👯 Looking to collaborate on open-source full-stack and infrastructure automation projects  <br>💬 Ask me about **React**, **Next.js**, **Docker**, **Kubernetes**, or **CI/CD pipelines**  <br>📫 Reach me at: quangdo1206@gmail.com  <br>🧠 Fun fact: I automate everything I can 😄
 
-# 🌐 Socials:
+# 📫 Let's Connect:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/392253881213517825) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/quangdo126) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/quangdo126) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quangdo126) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:quangdo1206@gmail.com) 
 
 # 💻 Tech Stack:
